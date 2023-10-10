@@ -1,0 +1,4 @@
+closed; What is the capital of France?; Paris; Madrid; Berlin; Rome; 0
+open; What is the capital of Japan?
+multiple; Which of the following are primary colors?; Red; Yellow; Blue; Green; 0,2
+closed; What is 2 + 2?; 3; 4; 5; 6; 1
