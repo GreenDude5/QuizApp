@@ -123,6 +123,7 @@
             checkAnswer();
         });
 
+        
         showQuestion();
     </script>
 </body>
